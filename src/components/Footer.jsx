@@ -19,7 +19,7 @@ const Footer = () => {
             letterSpacing={"widest"}
             textAlign={["center", "left"]}
           >
-            We are the base crypto trading app in Pakistan, we provide our
+            We are the best crypto trading app in Pakistan, we provide our
             guidance at a very reasonable price.
           </Text>
         </VStack>
