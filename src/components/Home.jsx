@@ -36,7 +36,7 @@ const Home = () => {
         color={"whiteAlpha.700"}
         mt={"-20"}
       >
-        Crypto Warrior
+        Crypto{"\u00A0"}Warrior
       </Text>
     </Box>
   );
